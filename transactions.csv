@@ -1,0 +1,201 @@
+transaction_id,product_id,customer_name,gender,customer_city,quantity,unit_price,total_amount,payment_method,branch,transaction_date
+183,2,Maribel Reyes,Female,Valenzuela,6,22.0,132.0,Debit Card,SaveMore Bacoor,2023-01-06
+157,17,Nica Lacson,Female,Mandaluyong,8,88.0,704.0,GCash,SM Megamall,2023-01-07
+17,3,Juan Tan,Male,Bacoor,1,42.0,42.0,Cash,SM North EDSA,2023-01-10
+128,3,Jomar Flores,Male,Las Pinas,2,42.0,84.0,Maya,Puregold Iloilo,2023-01-10
+138,13,Jenelyn Pascual,Female,Bacolod,5,38.0,190.0,Debit Card,Robinsons Davao,2023-01-10
+143,18,Ana Reyes,Female,Imus,7,72.0,504.0,Credit Card,SM Megamall,2023-01-11
+163,3,Kristine Ramos,Female,Bacolod,10,42.0,420.0,Cash,SM Cebu,2023-01-13
+86,10,Lovely Reyes,Female,Las Pinas,3,60.0,180.0,Credit Card,SaveMore Pasig,2023-01-17
+124,11,Renz Villanueva,Male,Bacolod,5,68.0,340.0,GCash,SM Fairview,2023-01-28
+145,4,Carlo Lim,Male,Valenzuela,2,18.0,36.0,Maya,SM North EDSA,2023-01-28
+71,7,Lovely Pascual,Female,Bacolod,7,135.0,945.0,Maya,Robinsons Galleria,2023-01-29
+130,24,Dennis Go,Male,Manila,8,65.0,520.0,Cash,Puregold Iloilo,2023-02-01
+26,3,Rommel Manalo,Male,Valenzuela,7,42.0,294.0,Cash,Robinsons Galleria,2023-02-02
+170,2,Jessa Soriano,Female,Marikina,7,22.0,154.0,Cash,SaveMore Pasig,2023-02-02
+156,7,Princess Tan,Female,Bacolod,4,135.0,540.0,Debit Card,SaveMore Bacoor,2023-02-03
+188,19,Alvin Domingo,Male,Antipolo,8,38.0,304.0,Cash,Puregold Cubao,2023-02-04
+8,13,Ronel Tan,Male,Bacoor,3,38.0,114.0,Credit Card,SM Megamall,2023-02-05
+53,14,Claire Manalo,Female,Bacoor,3,22.0,66.0,GCash,SM Megamall,2023-02-06
+181,14,Jessa Pascual,Female,Paranaque,8,22.0,176.0,Cash,Puregold Cubao,2023-02-06
+95,20,Maricel Garcia,Female,Cebu City,5,52.0,260.0,Cash,Robinsons Davao,2023-02-07
+98,2,Jose Go,Male,Manila,3,22.0,66.0,Debit Card,SM Cebu,2023-02-13
+129,13,Maricel Rivera,Female,Davao City,5,38.0,190.0,Credit Card,Robinsons Davao,2023-02-14
+122,20,Kristine Go,Female,Cebu City,1,52.0,52.0,Maya,SM Megamall,2023-02-15
+126,6,Ronel Santos,Male,Muntinlupa,4,120.0,480.0,GCash,SaveMore Bacoor,2023-02-27
+43,14,Rommel Bautista,Male,Muntinlupa,1,22.0,22.0,Cash,SM Megamall,2023-03-01
+117,1,Jayson Bautista,Male,Pasay,9,15.0,135.0,Cash,Puregold Cubao,2023-03-04
+11,12,Juan Rivera,Male,Bacoor,7,48.0,336.0,Debit Card,SM Megamall,2023-03-05
+67,23,Miguel Flores,Male,Antipolo,3,85.0,255.0,Cash,SaveMore Bacoor,2023-03-06
+88,17,Nikko Ilagan,Male,Manila,10,88.0,880.0,GCash,SM North EDSA,2023-03-13
+167,22,Liza Torres,Female,Caloocan,7,115.0,805.0,GCash,SM Cebu,2023-03-16
+133,4,Vanessa Ignacio,Female,Quezon City,2,18.0,36.0,Debit Card,SM North EDSA,2023-03-17
+187,9,Maricel Go,Female,Quezon City,10,55.0,550.0,GCash,Robinsons Davao,2023-03-18
+136,20,Joanna Rivera,Female,Quezon City,10,52.0,520.0,Cash,SM Megamall,2023-03-26
+160,3,Jomar Torres,Male,Caloocan,4,42.0,168.0,Credit Card,SM Cebu,2023-03-28
+24,24,Ana Soriano,Female,Imus,10,65.0,650.0,Debit Card,Robinsons Davao,2023-03-30
+63,8,Liza Go,Female,Taguig,9,95.0,855.0,GCash,Puregold Iloilo,2023-03-30
+3,6,Archie Rivera,Male,Iloilo City,6,120.0,720.0,Maya,Robinsons Galleria,2023-03-31
+5,3,Vanessa Ignacio,Female,Valenzuela,2,42.0,84.0,GCash,SM Cebu,2023-03-31
+106,14,Sheila Go,Female,Pasay,10,22.0,220.0,Debit Card,SM Fairview,2023-03-31
+184,9,Gladys Delos Santos,Female,Bacolod,8,55.0,440.0,Credit Card,Robinsons Galleria,2023-03-31
+123,8,Ferdie Pascual,Male,Marikina,3,95.0,285.0,Cash,SM North EDSA,2023-04-02
+91,1,Renz Bautista,Male,Manila,6,15.0,90.0,Credit Card,Robinsons Davao,2023-04-04
+48,24,Tricia Castillo,Female,Iloilo City,7,65.0,455.0,Debit Card,Puregold Iloilo,2023-04-09
+118,10,Cheryl Lim,Female,Valenzuela,8,60.0,480.0,Credit Card,Robinsons Davao,2023-04-09
+174,2,Jayson Villanueva,Male,Pasay,6,22.0,132.0,Cash,SaveMore Pasig,2023-04-09
+82,6,Princess Aguilar,Female,Iloilo City,1,120.0,120.0,Debit Card,SaveMore Bacoor,2023-04-11
+150,3,Jomar Ignacio,Male,Antipolo,9,42.0,378.0,Debit Card,SM Cebu,2023-04-19
+18,22,Carlo Navarro,Male,Marikina,2,115.0,230.0,Credit Card,SM North EDSA,2023-04-22
+39,11,Ferdie Cruz,Male,Iloilo City,6,68.0,408.0,Maya,SM Fairview,2023-04-23
+62,1,Carlo Navarro,Male,Las Pinas,3,15.0,45.0,Maya,Robinsons Davao,2023-04-23
+147,20,Joanna Manalo,Female,Muntinlupa,6,52.0,312.0,Debit Card,Puregold Iloilo,2023-05-07
+81,20,Dennis Dela Cruz,Male,Davao City,1,52.0,52.0,GCash,Robinsons Davao,2023-05-17
+55,4,Arjay Aquino,Male,Valenzuela,10,18.0,180.0,Credit Card,SM Megamall,2023-05-19
+141,20,Claire Rivera,Female,Antipolo,2,52.0,104.0,Maya,SM Fairview,2023-05-24
+90,22,Nica Ignacio,Female,Pasig,8,115.0,920.0,Credit Card,Robinsons Galleria,2023-05-28
+108,6,Cheryl Manalo,Female,Cebu City,10,120.0,1200.0,Maya,SM Fairview,2023-05-31
+94,22,Dennis Domingo,Male,Imus,4,115.0,460.0,Debit Card,Robinsons Galleria,2023-06-11
+173,13,Rowena Manalo,Female,Las Pinas,2,38.0,76.0,Maya,SaveMore Pasig,2023-06-12
+179,9,Erwin Bautista,Male,Marikina,7,55.0,385.0,GCash,Puregold Cubao,2023-06-14
+2,1,Ryan Lim,Male,Imus,5,15.0,75.0,Cash,Puregold Iloilo,2023-06-26
+101,7,Rowena Castillo,Female,Pasig,8,135.0,1080.0,Cash,Puregold Iloilo,2023-06-27
+104,11,Jessa Tan,Female,Bacoor,4,68.0,272.0,Maya,Puregold Iloilo,2023-06-28
+144,12,Lovely Flores,Female,Mandaluyong,5,48.0,240.0,Maya,SM Cebu,2023-06-28
+28,24,Mark Reyes,Male,Valenzuela,7,65.0,455.0,Debit Card,Robinsons Galleria,2023-07-02
+45,23,Rowena Torres,Female,Las Pinas,1,85.0,85.0,Debit Card,SM North EDSA,2023-07-03
+93,24,Archie Ilagan,Male,Quezon City,9,65.0,585.0,GCash,SM North EDSA,2023-07-08
+159,20,Nikko Reyes,Male,Bacolod,7,52.0,364.0,Maya,SaveMore Bacoor,2023-07-19
+4,8,Jenelyn Domingo,Female,Marikina,4,95.0,380.0,Cash,Robinsons Galleria,2023-07-24
+42,4,Maria Domingo,Female,Las Pinas,9,18.0,162.0,Credit Card,Puregold Cubao,2023-07-25
+200,16,Rachelle Lim,Female,Antipolo,5,75.0,375.0,GCash,Robinsons Galleria,2023-07-26
+131,16,Carlo Delos Santos,Male,Taguig,9,75.0,675.0,Cash,SM North EDSA,2023-08-02
+59,23,Claire Ignacio,Female,Quezon City,1,85.0,85.0,Credit Card,Robinsons Davao,2023-08-05
+22,5,Kristine Ramos,Female,Pasig,3,38.0,114.0,Maya,SM Megamall,2023-08-06
+153,14,Liza Ocampo,Female,Marikina,3,22.0,66.0,Cash,SM North EDSA,2023-08-19
+32,12,Maricel Navarro,Female,Imus,4,48.0,192.0,Maya,SM Cebu,2023-08-20
+51,14,Alvin Rivera,Male,Manila,2,22.0,44.0,GCash,Robinsons Davao,2023-08-22
+76,3,Joanna Go,Female,Paranaque,1,42.0,42.0,Cash,SaveMore Bacoor,2023-08-23
+29,25,Maricel Lim,Female,Las Pinas,6,58.0,348.0,Maya,Puregold Iloilo,2023-08-24
+107,23,Claire Santos,Female,Caloocan,3,85.0,255.0,Cash,SM Cebu,2023-08-24
+68,13,Juan Aquino,Male,Mandaluyong,5,38.0,190.0,GCash,SaveMore Bacoor,2023-08-26
+96,4,Joanna Dela Cruz,Female,Caloocan,10,18.0,180.0,Debit Card,SaveMore Bacoor,2023-08-26
+110,25,Jenelyn Castillo,Female,Paranaque,5,58.0,290.0,Debit Card,SM Cebu,2023-08-29
+74,24,Princess Ilagan,Female,Quezon City,10,65.0,650.0,Credit Card,SaveMore Pasig,2023-08-31
+191,9,Ferdie Soriano,Male,Marikina,3,55.0,165.0,GCash,SM Cebu,2023-09-05
+19,18,Nica Pascual,Female,Bacoor,7,72.0,504.0,GCash,Robinsons Davao,2023-09-15
+9,24,Rommel Hernandez,Male,Quezon City,6,65.0,390.0,Credit Card,Robinsons Galleria,2023-09-20
+155,11,Rowena Soriano,Female,Bacoor,5,68.0,340.0,Debit Card,Robinsons Davao,2023-09-24
+13,16,Lovely Delos Santos,Female,Iloilo City,2,75.0,150.0,GCash,Puregold Cubao,2023-09-25
+99,21,Rommel Garcia,Male,Iloilo City,5,32.0,160.0,GCash,Robinsons Galleria,2023-09-26
+49,8,Claire Bautista,Female,Bacoor,5,95.0,475.0,Debit Card,SM Cebu,2023-09-27
+115,14,Rachelle Ilagan,Female,Manila,10,22.0,220.0,Credit Card,Robinsons Galleria,2023-09-27
+139,3,Tricia Lacson,Female,Manila,10,42.0,420.0,GCash,Robinsons Davao,2023-09-29
+57,9,Aldrin Rivera,Male,Imus,1,55.0,55.0,GCash,SaveMore Pasig,2023-10-03
+189,18,Sheila Soriano,Female,Quezon City,7,72.0,504.0,Maya,Puregold Iloilo,2023-10-05
+135,6,Mark Mendoza,Male,Manila,8,120.0,960.0,Debit Card,SaveMore Pasig,2023-10-07
+148,3,Ryan Tan,Male,Valenzuela,10,42.0,420.0,Maya,SM Cebu,2023-10-10
+198,6,Juan Cruz,Male,Taguig,2,120.0,240.0,GCash,Puregold Cubao,2023-10-11
+119,25,Tricia Villanueva,Female,Las Pinas,4,58.0,232.0,Maya,SM North EDSA,2023-10-16
+137,24,Mark Tolentino,Male,Imus,4,65.0,260.0,Credit Card,SaveMore Pasig,2023-10-17
+34,16,Sheila Ignacio,Female,Pasig,10,75.0,750.0,Cash,SaveMore Pasig,2023-10-24
+196,19,Kevin Garcia,Male,Valenzuela,1,38.0,38.0,Cash,SM Fairview,2023-10-27
+79,2,Maricel Santos,Female,Muntinlupa,2,22.0,44.0,Cash,Puregold Iloilo,2023-10-29
+56,4,Tricia Delos Santos,Female,Caloocan,3,18.0,54.0,Debit Card,SaveMore Pasig,2023-10-31
+70,2,Carlo Torres,Male,Paranaque,9,22.0,198.0,Debit Card,Robinsons Galleria,2023-11-05
+33,9,Aldrin Soriano,Male,Taguig,9,55.0,495.0,Credit Card,SaveMore Pasig,2023-11-06
+186,18,Joanna Rivera,Female,Iloilo City,9,72.0,648.0,Credit Card,SM Megamall,2023-11-06
+87,6,Carlo Castillo,Male,Las Pinas,8,120.0,960.0,Cash,SM Cebu,2023-11-10
+190,24,Ronel Castillo,Male,Bacolod,4,65.0,260.0,Cash,SM North EDSA,2023-11-11
+182,15,Miguel Lim,Male,Makati,5,18.0,90.0,GCash,Robinsons Galleria,2023-11-12
+166,9,Ronel Ignacio,Male,Imus,3,55.0,165.0,Credit Card,SM North EDSA,2023-11-15
+199,22,Rowena Tan,Female,Valenzuela,8,115.0,920.0,GCash,SM Cebu,2023-11-15
+169,19,Jomar Dela Cruz,Male,Cebu City,10,38.0,380.0,Cash,Robinsons Galleria,2023-11-19
+92,10,Sheila Tan,Female,Pasay,8,60.0,480.0,Debit Card,Robinsons Davao,2023-11-21
+140,12,Vanessa Tan,Female,Makati,6,48.0,288.0,Debit Card,SaveMore Pasig,2023-11-23
+41,22,Rachelle Dela Cruz,Female,Makati,5,115.0,575.0,GCash,SM North EDSA,2023-12-04
+80,8,Jayson Villanueva,Male,Mandaluyong,8,95.0,760.0,Debit Card,SM North EDSA,2023-12-07
+172,5,Renz Bautista,Male,Davao City,8,38.0,304.0,Maya,SM Fairview,2023-12-08
+180,16,Maria Delos Santos,Female,Pasig,1,75.0,75.0,Debit Card,SM Fairview,2023-12-18
+195,10,Arjay Reyes,Male,Davao City,5,60.0,300.0,Credit Card,Puregold Cubao,2023-12-29
+127,21,Claire Soriano,Female,Iloilo City,4,32.0,128.0,Debit Card,SaveMore Pasig,2023-12-31
+72,10,Cheryl Villanueva,Female,Paranaque,1,60.0,60.0,Maya,SaveMore Pasig,2024-01-02
+20,11,Kristine Delos Santos,Female,Imus,6,68.0,408.0,GCash,SaveMore Pasig,2024-01-13
+103,17,Rowena Pascual,Female,Valenzuela,9,88.0,792.0,GCash,Robinsons Davao,2024-01-21
+162,18,Ferdie Aguilar,Male,Taguig,2,72.0,144.0,Credit Card,SM Fairview,2024-01-26
+178,6,Carlo Hernandez,Male,Caloocan,1,120.0,120.0,Debit Card,SM North EDSA,2024-02-02
+84,23,Ryan Navarro,Male,Manila,6,85.0,510.0,GCash,Puregold Cubao,2024-02-03
+120,20,Carlo Ocampo,Male,Taguig,7,52.0,364.0,Cash,SM Cebu,2024-02-10
+102,12,Rachelle Lim,Female,Mandaluyong,3,48.0,144.0,Debit Card,Puregold Iloilo,2024-02-13
+83,19,Jessa Aguilar,Female,Marikina,9,38.0,342.0,GCash,SM North EDSA,2024-02-15
+30,19,Rommel Tan,Male,Bacolod,7,38.0,266.0,Debit Card,Puregold Cubao,2024-02-16
+78,19,Princess Tolentino,Female,Imus,1,38.0,38.0,Credit Card,SM Fairview,2024-03-09
+65,2,Maria Mendoza,Female,Marikina,10,22.0,220.0,GCash,Robinsons Davao,2024-03-12
+149,6,Ana Pascual,Female,Pasay,2,120.0,240.0,Debit Card,SM Fairview,2024-04-02
+25,21,Kristine Dela Cruz,Female,Antipolo,10,32.0,320.0,Cash,SM Megamall,2024-04-05
+16,10,Rommel Go,Male,Bacolod,9,60.0,540.0,Maya,SaveMore Pasig,2024-04-09
+132,10,Maria Garcia,Female,Quezon City,4,60.0,240.0,Maya,Robinsons Davao,2024-04-09
+112,8,Archie Aquino,Male,Quezon City,3,95.0,285.0,Cash,SaveMore Pasig,2024-04-11
+77,1,Rowena Delos Santos,Female,Paranaque,4,15.0,60.0,Credit Card,SM Cebu,2024-04-16
+165,9,Jose Cruz,Male,Makati,6,55.0,330.0,Credit Card,SaveMore Pasig,2024-04-18
+171,13,Kevin Pascual,Male,Paranaque,5,38.0,190.0,GCash,SaveMore Bacoor,2024-04-21
+100,16,Kristine Ilagan,Female,Mandaluyong,9,75.0,675.0,GCash,SM Megamall,2024-04-22
+36,22,Princess Lacson,Female,Pasig,8,115.0,920.0,Debit Card,SM Cebu,2024-04-29
+158,9,Ryan Villanueva,Male,Bacoor,4,55.0,220.0,Cash,Robinsons Galleria,2024-05-14
+85,25,Jose Ilagan,Male,Muntinlupa,8,58.0,464.0,Credit Card,SaveMore Bacoor,2024-05-18
+40,15,Joanna Ocampo,Female,Pasig,3,18.0,54.0,GCash,SM Megamall,2024-05-19
+175,18,Jayson Reyes,Male,Pasig,9,72.0,648.0,Credit Card,Robinsons Davao,2024-05-19
+89,4,Rommel Dela Cruz,Male,Las Pinas,5,18.0,90.0,Maya,Robinsons Davao,2024-05-24
+197,17,Joanna Garcia,Female,Antipolo,9,88.0,792.0,Maya,SaveMore Pasig,2024-05-27
+66,17,Carlo Lim,Male,Taguig,10,88.0,880.0,Maya,SM Fairview,2024-05-31
+54,16,Miguel Santos,Male,Davao City,5,75.0,375.0,Debit Card,Puregold Iloilo,2024-06-04
+44,13,Gladys Pascual,Female,Mandaluyong,9,38.0,342.0,Cash,Puregold Cubao,2024-06-05
+46,2,Arjay Dela Cruz,Male,Paranaque,9,22.0,198.0,Debit Card,Robinsons Galleria,2024-06-18
+105,20,Maribel Navarro,Female,Cebu City,1,52.0,52.0,Cash,SaveMore Pasig,2024-06-19
+35,19,Juan Ilagan,Male,Paranaque,7,38.0,266.0,Credit Card,SaveMore Bacoor,2024-06-21
+164,15,Carlo Garcia,Male,Pasay,7,18.0,126.0,Maya,SM North EDSA,2024-06-23
+7,2,Aldrin Ilagan,Male,Imus,7,22.0,154.0,Debit Card,SM Fairview,2024-06-27
+10,23,Ana Hernandez,Female,Bacoor,2,85.0,170.0,GCash,SaveMore Pasig,2024-06-27
+47,23,Aldrin Hernandez,Male,Antipolo,8,85.0,680.0,GCash,Robinsons Galleria,2024-07-12
+58,24,Sheila Aquino,Female,Mandaluyong,6,65.0,390.0,GCash,SM Megamall,2024-07-23
+50,8,Gladys Dela Cruz,Female,Cebu City,1,95.0,95.0,Cash,SM Megamall,2024-07-24
+194,5,Miguel Pascual,Male,Mandaluyong,8,38.0,304.0,Debit Card,SaveMore Pasig,2024-07-24
+1,7,Rachelle Mendoza,Female,Pasay,2,135.0,270.0,Maya,Puregold Iloilo,2024-07-25
+21,18,Rowena Manalo,Female,Imus,7,72.0,504.0,Maya,Robinsons Davao,2024-07-29
+161,21,Maribel Garcia,Female,Imus,6,32.0,192.0,Credit Card,Robinsons Davao,2024-08-01
+168,4,Ana Hernandez,Female,Pasig,4,18.0,72.0,GCash,SM Megamall,2024-08-02
+109,1,Tricia Rivera,Female,Iloilo City,10,15.0,150.0,Maya,SM Megamall,2024-08-16
+177,4,Rommel Ilagan,Male,Quezon City,7,18.0,126.0,Maya,SM Megamall,2024-08-16
+142,12,Vanessa Go,Female,Bacolod,10,48.0,480.0,Cash,Robinsons Davao,2024-08-17
+52,8,Sheila Flores,Female,Cebu City,2,95.0,190.0,Maya,Puregold Iloilo,2024-08-31
+15,14,Maribel Ignacio,Female,Muntinlupa,8,22.0,176.0,Debit Card,SaveMore Pasig,2024-09-04
+176,15,Vanessa Lim,Female,Pasig,2,18.0,36.0,Debit Card,Puregold Iloilo,2024-09-06
+121,23,Sheila Lim,Female,Bacolod,3,85.0,255.0,Debit Card,SaveMore Pasig,2024-09-08
+114,12,Joanna Bautista,Female,Cebu City,7,48.0,336.0,Debit Card,SM North EDSA,2024-09-12
+151,16,Jessa Hernandez,Female,Las Pinas,1,75.0,75.0,Debit Card,SM Megamall,2024-09-15
+37,13,Princess Lacson,Female,Caloocan,7,38.0,266.0,Debit Card,Robinsons Davao,2024-09-18
+193,4,Maricel Ilagan,Female,Quezon City,4,18.0,72.0,Debit Card,Puregold Iloilo,2024-09-18
+6,18,Ferdie Pascual,Male,Makati,2,72.0,144.0,Maya,Puregold Iloilo,2024-10-04
+60,4,Jessa Bautista,Female,Paranaque,6,18.0,108.0,Maya,Puregold Cubao,2024-10-11
+185,3,Ferdie Ocampo,Male,Valenzuela,1,42.0,42.0,Debit Card,SaveMore Bacoor,2024-10-12
+31,21,Kevin Aguilar,Male,Muntinlupa,5,32.0,160.0,Maya,SM Cebu,2024-10-21
+134,17,Rachelle Hernandez,Female,Makati,10,88.0,880.0,GCash,SM Fairview,2024-10-27
+23,4,Archie Santos,Male,Las Pinas,3,18.0,54.0,Maya,SM North EDSA,2024-10-30
+125,13,Ronel Rivera,Male,Pasig,6,38.0,228.0,GCash,SaveMore Bacoor,2024-10-31
+97,11,Aldrin Aquino,Male,Marikina,2,68.0,136.0,Maya,SM Cebu,2024-11-06
+75,13,Ferdie Torres,Male,Manila,8,38.0,304.0,Cash,Robinsons Davao,2024-11-07
+12,23,Jessa Tolentino,Female,Manila,1,85.0,85.0,GCash,Robinsons Galleria,2024-11-13
+61,22,Sheila Lim,Female,Mandaluyong,7,115.0,805.0,Cash,SM North EDSA,2024-11-14
+27,20,Jessa Reyes,Female,Mandaluyong,5,52.0,260.0,GCash,SaveMore Bacoor,2024-11-15
+14,5,Mark Garcia,Male,Caloocan,1,38.0,38.0,Cash,Puregold Cubao,2024-11-17
+113,3,Mark Aquino,Male,Valenzuela,7,42.0,294.0,Cash,SM North EDSA,2024-11-20
+116,17,Kristine Delos Santos,Female,Paranaque,5,88.0,440.0,Debit Card,SaveMore Bacoor,2024-11-22
+38,10,Maria Go,Female,Paranaque,8,60.0,480.0,Debit Card,Puregold Iloilo,2024-11-27
+111,2,Cheryl Rivera,Female,Makati,4,22.0,88.0,Credit Card,Puregold Cubao,2024-12-07
+73,16,Kevin Ilagan,Male,Manila,9,75.0,675.0,Credit Card,Robinsons Galleria,2024-12-08
+152,16,Rowena Go,Female,Paranaque,7,75.0,525.0,Cash,SM North EDSA,2024-12-08
+192,23,Nikko Domingo,Male,Pasig,6,85.0,510.0,Cash,SaveMore Bacoor,2024-12-20
+69,14,Maria Aquino,Female,Antipolo,7,22.0,154.0,Maya,SM Cebu,2024-12-21
+154,4,Sheila Mendoza,Female,Caloocan,6,18.0,108.0,Credit Card,SM Cebu,2024-12-21
+64,8,Vanessa Castillo,Female,Imus,7,95.0,665.0,Credit Card,Robinsons Davao,2024-12-28
+146,13,Joanna Ramos,Female,Taguig,9,38.0,342.0,Cash,SM North EDSA,2024-12-30
